@@ -1,7 +1,26 @@
 {
   "dependencies": {
+    "body-parser": "^1.20.0",
     "ejs": "^3.1.6",
     "express": "^4.17.3",
     "mongoose": "^6.3.0"
-  }
+  },
+  "name": "mean_contactbook",
+  "description": "mean스텍 주소록",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pino43/mean_contactbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pino43/mean_contactbook/issues"
+  },
+  "homepage": "https://github.com/Pino43/mean_contactbook#readme"
 }
